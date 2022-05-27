@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 50px;
+    padding: 2px;
+    border: 2px solid rgb(250, 67, 67);
+}
+.left-tab{
+    position: relative;
+    left:1px;
+}
+.right-tab{
+    position: relative;
+    left:570px;
+}
